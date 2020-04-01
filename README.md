@@ -1,5 +1,3 @@
-# misesohani.github.io
-
 # MiseSohani
 
 MiseSohani is my first github pages. I am going to try and use AMP for this one. This will be my blog, so here where I'll share my thoughts, ideas and updates.
