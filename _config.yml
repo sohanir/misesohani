@@ -21,7 +21,7 @@
 title: MiseSohani
 description: >- # this means to ignore newlines until "baseurl:"
   Sohani Rao is a software engineer and creative content creator.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sohanir.github.io/misesohani" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RaoSohani
 github_username:  sohanir
